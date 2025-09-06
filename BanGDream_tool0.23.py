@@ -51,7 +51,7 @@ character_id_to_name = {
     36: "高松灯", 37: "千早爱音", 38: "要乐奈", 39: "長崎爽世", 40: "椎名立希"
 }
 
-# 角色外号和简称映射（请在此处填写，每个角色名对应一个list）
+# 角色外号和简称映射
 CHARACTER_ALIASES = {
     "户山香澄": ['ppp','PoppinParty','戸山香澄','とやまかすみ','Toyama Kasumi','ksm','cdd','爱美','猫耳','主唱','吉他手'],
     "花园多惠": ['ppp','PoppinParty','花園（はなぞの）たえ','Hanazono Tae','大冢纱英','otae','tea','吉他手','兔子'],
