@@ -6,14 +6,19 @@
 
 可根据稀有度（rarity），属性（attribute），类型（type），图片类型，乐队和角色进行筛选，一键批量下载
 
+![批量下载](https://github.com/SkyHao723/BanGDream_tool/blob/main/photo/QQ20250906-132749.png)
 
 #### 2\.  按照卡面ID进行下载
 
 输入你想要下载的卡面ID，添加后，程序会自动检测ID的合法性，并检索卡面的信息
 
+![清单下载](https://github.com/SkyHao723/BanGDream_tool/blob/main/photo/QQ20250906-132813.png)
+
 #### 3\. 卡面超分
 
 内置了RealESRGAN和waifu2x超分软件，可以在软件内方便的选择超分模型和输出格式 
+
+![卡面超分](https://github.com/SkyHao723/BanGDream_tool/blob/main/photo/QQ20250906-132856.png)
 
 #### 4\. 其他
 
