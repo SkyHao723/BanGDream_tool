@@ -1,6 +1,7 @@
 # BanGDream Tool
 
-[English](https://github.com/SkyHao723/BanGDream_tool/blob/main/README.md)	    	[中文](https://github.com/SkyHao723/BanGDream_tool/blob/main/README_CN.md)
+[English](https://github.com/SkyHao723/BanGDream_tool/blob/main/README.md)
+[中文](https://github.com/SkyHao723/BanGDream_tool/blob/main/README_CN.md)
 
 #### 1\. Batch download of images
 
