@@ -1,5 +1,7 @@
 # BanGDream Tool
 
+[English](https://github.com/SkyHao723/BanGDream_tool/blob/main/README.md)		[中文](https://github.com/SkyHao723/BanGDream_tool/blob/main/README_CN.md)
+
 #### 1\. Batch download of images
 
 You can filter based on rarity, attributes, type, image type, band, and character, and download in bulk with just one click
