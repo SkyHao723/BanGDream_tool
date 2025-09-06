@@ -1,5 +1,7 @@
 ### BanGDream Tool
 
+[English](https://github.com/SkyHao723/BanGDream_tool/blob/main/README.md)		[中文](https://github.com/SkyHao723/BanGDream_tool/blob/main/README_CN.md)
+
 #### 1\.卡面批量下载
 
 可根据稀有度（rarity），属性（attribute），类型（type），图片类型，乐队和角色进行筛选，一键批量下载
