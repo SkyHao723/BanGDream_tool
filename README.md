@@ -1,6 +1,7 @@
 # BanGDream Tool
 
-![icon](https://github.com/SkyHao723/BanGDream_tool/blob/main/app.ico)
+![icon](https://github.com/SkyHao723/BanGDream_tool/blob/main/app.ico
+
 [English](https://github.com/SkyHao723/BanGDream_tool/blob/main/README.md)
 [中文](https://github.com/SkyHao723/BanGDream_tool/blob/main/README_CN.md)
 
